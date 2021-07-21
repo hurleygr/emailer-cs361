@@ -1,0 +1,1 @@
+Web: ./build/install/rest-service/bin/rest-service
