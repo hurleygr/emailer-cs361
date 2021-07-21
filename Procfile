@@ -1,1 +1,1 @@
-Web: ./build/install/rest-service/bin/rest-service
+Web: java -jar build/libs/rest-service.jar
